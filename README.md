@@ -1,4 +1,4 @@
-# PazzleGame
+# PazzleGame V1.0
 A PazzleGame with Login and Register funtion
 待优化的方面：
 1：没有将通用的方法封装成一个工具类，导致重复书写。
